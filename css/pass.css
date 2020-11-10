@@ -1,0 +1,58 @@
+body {
+      font-family:'times New Roman',Times;
+      background-color:lightblue;
+      font-size:large;
+}
+
+h1
+{
+  background-color: gold;
+  color: #0000ff;
+  text-align: Center;
+
+}
+
+h2
+{
+  background-color: #000063;
+  color: gold;
+  font-style: italic;
+  text-align: center;
+}
+.heading
+{
+ text-align: Center;
+}
+
+#footer
+{
+ font-weigth: bold;
+ font-style: italic;
+ color: blue;
+ background-color: gold;
+ text-align: center;
+ font-size: large;
+}
+ 
+table
+{
+ margin: auto;
+ background-color: gold;
+ border: thin solid #000000;
+ width: 70%;
+ border-collapse: collapse;
+}
+
+th
+{
+ background-color: #000063;
+ color: #ffffff;
+}
+
+td
+{
+
+ border: 1px solid #000000;
+}
+
+ 
